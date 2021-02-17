@@ -26,7 +26,7 @@ Once inside the docker image, navigate to `/home/` and clone the exercises repos
 
 ``` sh
 $ git clone https://github.com/codeplaysoftware/dpcpp-workshop.git
-$ cd dpcpp_workshop/examples
+$ cd dpcpp_workshop/exercises
 ```
 
 Refer to each example and/or exercise for detailed instructions on how  to run it.
