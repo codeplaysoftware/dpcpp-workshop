@@ -19,13 +19,12 @@ Getting Started
 Once docker and the NVIDIA Container Toolkit are installed, we can create a new container and run the examples witin it.
 
 ``` sh
-$ sudo docker run --gpus all -it ruyman/dpcpp_cuda_examples
+$ sudo docker run --gpus all -it mehdigoli/dpcpp-workshop:latest
 ```
 
 Once inside the docker image, navigate to `/home/` and clone the exercises repository:
 
 ``` sh
-$ git clone https://github.com/codeplaysoftware/dpcpp-workshop.git
 $ cd dpcpp_workshop/exercises
 ```
 
