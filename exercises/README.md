@@ -6,10 +6,10 @@ These exercises introduce the CUDA backend of the DPC++ SYCL compiler and runtim
 
 # Prerequisites
 
+The [NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) must be installed to run the image.
+
 These examples are intended to be used with this [docker image](https://hub.docker.com/r/ruyman/dpcpp_cuda_examples). 
 It provides all the examples, libraries and the required environment variables. 
-
-[NVIDIA Container Toolkit](https://github.com/NVIDIA/nvidia-docker) must be installed to run the image.
 
 A useful guide for setting up docker and the NVIDIA Container Toolkit can be found [here](https://www.pugetsystems.com/labs/hpc/Workstation-Setup-for-Docker-with-the-New-NVIDIA-Container-Toolkit-nvidia-docker2-is-deprecated-1568).
 
